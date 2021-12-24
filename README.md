@@ -1,6 +1,8 @@
 # Daily Scheduler
 
-### This application can be used to record a summary of the day's important events and catalog a list of tasks <br>Like a personal journal and a to-do-list 
+This application can be used to record a summary of the day's important events and catalog a list of tasks <br>Like a personal journal and a to-do-list 
+
+[Please find the client application(submodule) here](https://github.com/sameerad2001/DailyScheduler_Client)
 
 <br>
 
@@ -21,6 +23,7 @@
 ### Demo
 
 - Add, View, Edit, Delete and Filter schedules
+    - <img src = "https://github.com/sameerad2001/DailyScheduler_Server/blob/master/img/Demo3.png" alt = "Website Demo"/>
     - <img src = "https://github.com/sameerad2001/DailyScheduler_Server/blob/master/img/Demo1.png" alt = "Website Demo"/>
     - <img src = "https://github.com/sameerad2001/DailyScheduler_Server/blob/master/img/Demo2.png" alt = "Website Demo"/>
 
