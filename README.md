@@ -1,6 +1,6 @@
 # Daily Scheduler
 
-##### This application can be used to record a summary of the day's important events and catalog a list of tasks <br>Like a personal journal and a to-do-list 
+### This application can be used to record a summary of the day's important events and catalog a list of tasks <br>Like a personal journal and a to-do-list 
 
 <br>
 
